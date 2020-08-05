@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi. I'm Radu. I'm a Software Engineer from Bucharest, Romania. 🇷🇴 
 
 <!--
 **Nurckye/nurckye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
